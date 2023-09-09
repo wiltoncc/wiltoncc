@@ -7,6 +7,8 @@
   <img  width=30% align="right" src="https://github-readme-stats.vercel.app/api?username=wiltoncr&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=4c0677&cache_seconds=2300&hide_rank=true&custom_title=Atividades%20no%20GitHub" />
 </a>
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
 <img src="https://img.shields.io/static/v1?label=Overview&message=WILTONCR&color=4c0677&style=for-the-badge&logo=GitHub">
 
 ## Contatos :loudspeaker:
