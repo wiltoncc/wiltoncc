@@ -1,3 +1,4 @@
+<!-- omit in toc -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <h2 align="justify">Me nome é :space_invader:Wilton Costa R.:space_invader: sou FullStack Developer e estudo desde 2022, atualmente fazendo curso na <a href="https://cubos.academy/">@CubosAcademy</a></h2>
   
