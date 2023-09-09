@@ -1,4 +1,4 @@
-<img style="width: 40%;" align='right' src="https://github-readme-stats.vercel.app/api?username=wiltoncr&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=4c0677&cache_seconds=2300">
+<img style="width: 60%;" align='right' src="https://github-readme-stats.vercel.app/api?username=wiltoncr&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=4c0677&cache_seconds=2300">
 <h2>Me chamo :space_invader: Wilton Costa :space_invader: e eu sou FullStack Developer e estudo desde 2022, atualmente fazendo curso na <a href="https://cubos.academy/">@CubosAcademy</a></h2>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=WILTONCR&color=4c0677&style=for-the-badge&logo=GitHub">
