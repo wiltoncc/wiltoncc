@@ -2,7 +2,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <h2 align="justify">Me nome é :space_invader:Wilton Costa R.:space_invader: sou FullStack Developer e estudo desde 2022, atualmente fazendo curso na <a href="https://cubos.academy/">@CubosAcademy</a></h2>
   
-  <img  width=35% align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=4c0677&text_color=ffffff&title_color=ffffff" />
+  <img  width=35% align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiltoncr&layout=compact&bg_color=4c0677&text_color=ffffff&title_color=ffffff&custom_title=Linguagens%20Usadas" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img  width=30% align="right" src="https://github-readme-stats.vercel.app/api?username=wiltoncr&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=4c0677&cache_seconds=2300&hide_rank=true&custom_title=Atividades%20no%20GitHub" />
