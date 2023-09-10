@@ -3,13 +3,13 @@
 <picture>
   <source media="(max-width: 635px)"
 	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wiltoncr&layout=compact&bg_color=4c0677&text_color=ffffff&title_color=ffffff&custom_title=Linguagens%20Usadas" width=100%>
-<source media="(max-width: 832px)"
+<source media="(max-width: 1123px)"
 	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wiltoncr&layout=compact&bg_color=4c0677&text_color=ffffff&title_color=ffffff&custom_title=Linguagens%20Usadas" width=50%>
   <img  width=35% align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiltoncr&layout=compact&bg_color=4c0677&text_color=ffffff&title_color=ffffff&custom_title=Linguagens%20Usadas" />
 </picture>
 
 <picture>
-<source media="(max-width: 832px)"
+<source media="(max-width: 1123px)"
 	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wiltoncr&layout=compact&bg_color=4c0677&text_color=ffffff&title_color=ffffff&custom_title=Linguagens%20Usadas" width=0>
   <img  width=30% align="right" src="https://github-readme-stats.vercel.app/api?username=wiltoncr&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=4c0677&cache_seconds=2300&hide_rank=true&custom_title=Atividades%20no%20GitHub" />
 </picture>
