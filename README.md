@@ -7,6 +7,9 @@
 	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wiltoncr&layout=compact&bg_color=4c0677&text_color=ffffff&title_color=ffffff&custom_title=Linguagens%20Usadas" width=80%>
 <source media="(max-width: 1123px)"
 	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wiltoncr&layout=compact&bg_color=4c0677&text_color=ffffff&title_color=ffffff&custom_title=Linguagens%20Usadas" width=50%>
+<source media="(min-width: 1124px)"
+	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wiltoncr&layout=compact&bg_color=4c0677&text_color=ffffff&title_color=ffffff&custom_title=Linguagens%20Usadas" width=50%>
+	
   <img  width=35% align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiltoncr&layout=compact&bg_color=4c0677&text_color=ffffff&title_color=ffffff&custom_title=Linguagens%20Usadas" />
 </picture>
 
